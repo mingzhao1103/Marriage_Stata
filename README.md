@@ -2,7 +2,7 @@
 
 #### Research Goal 
 
-- To examine the effects of education on marriage transition for both men and women in different economic-reform periods and urban-rural areas.
+- To examine the effects of education on marriage transition for men and women by urban-rural residence during different economic-reform periods.
 
 #### Outline
 
