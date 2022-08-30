@@ -17,11 +17,12 @@
 - Data and Measure
   - Data
   - Methods
+    - Survival Analysis
+    - **Kaplan-Meier Estimator**
+    - **Discrete-Time Logistic Regression**
   - Analytical Sample
   - Variables
 - Results
-  - **Kaplan-Meier Curves**
-  - **Discrete-Time Logistic Models**
 - Discussion and Conclusion
 
 #### PDF Preview
