@@ -18,8 +18,8 @@
   - Data
   - Methods
     - Survival Analysis
-    - **Kaplan-Meier Estimator**
-    - **Discrete-Time Logistic Regression**
+      - **Kaplan-Meier Estimator**
+      - **Discrete-Time Logistic Regression**
   - Analytical Sample
   - Variables
 - Results
