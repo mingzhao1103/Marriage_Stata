@@ -1,8 +1,8 @@
 ## Educational Attainment and Transition to First Marriage in China
 
-#### Research Goal 
+#### Research Statement 
 
-- To examine the effects of education on marriage transition for men and women by urban-rural residence during different economic-reform periods.
+- By applying Survival Analysis, this paper examines the effects of education on marriage transition for men and women by urban-rural residence during different economic-reform periods.
 
 #### Outline
 
@@ -16,7 +16,7 @@
     - Late-reform Period: Post-1992
 - Data and Measure
   - Data
-  - Methods (Survival Analysis)
+  - Methods
     - **Kaplan-Meier Estimator**
     - **Discrete-Time Logistic Regression**
   - Analytical Sample
