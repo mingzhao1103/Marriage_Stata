@@ -16,7 +16,7 @@
     - Late-reform Period: Post-1992
 - Data and Measure
   - Data
-  - Methodology: Survival Analysis
+  - Methods (Survival Analysis)
     - **Kaplan-Meier Estimator**
     - **Discrete-Time Logistic Regression**
   - Analytical Sample
