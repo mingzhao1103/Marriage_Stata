@@ -2,7 +2,7 @@
 
 #### Research Statement 
 
-- By applying Survival Analysis, this paper examines the effects of education on marriage transition for men and women by urban-rural residence in different periods of economic reform.
+- By applying Survival Analysis, this paper examines the effects of education on marriage transition for men and women by urban-rural residence in different periods of the economic reform.
 
 #### Outline
 
